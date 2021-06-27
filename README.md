@@ -1,5 +1,5 @@
 # Welcome to "wouldnt_it_be_nice..."!
-This is a series of scripts I've built for completing specific - yet common tasks. The types of things that come up where you wish you had an alternative from doing it by hand.
+This is a series of scripts I've built for completing specific tasks I've encountered. The types of things that come up where you wish you had an alternative from doing it by hand. Hopefully this could give others a starting point. 
 
 ## cold_zeek_lookup.py
 Wouldn't it be nice to be able to search old zipped logs for a certain characteristic? 
