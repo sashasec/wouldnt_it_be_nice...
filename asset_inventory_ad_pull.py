@@ -1,11 +1,13 @@
+#Powershell Command: Get-ADComputer -Properties * | Export-Csv -Path .\ad_computers.csv -Append
+#The benefit here is that you now have these computer characteristics in a datatype that you can manipulate. 
+
 import pyad.adquery
 import csv, json
 from copy import deepcopy
 
-all_dict = {}
+all_dict = {} #used for comparing to other systems. 
 ad_devices = []
 
-#Powershell Command: Get-ADComputer -Properties * | Export-Csv -Path .\ad_computers.csv -Append
 q = pyad.adquery.ADQuery()
 q.execute_query(attributes = ["Name", "CanonicalName", "OperatingSystem", "whenChanged", "DisplayName", "ObjectCategory"], where_clause = "ObjectClass = 'computer'")
 for row in q.get_all_results():
