@@ -22,3 +22,6 @@ Wouldn't it be nice to export systems listed in Active Directory and interact wi
 
 ## update_memcached_server.py
 Wouldn't it be nice to be able to easily update watchlists on a memcached server in python? 
+
+## ip2location_lookup.py
+Wouldn't it be nice to perform a reliable whois lookup and get an estimated geolocation that is actually close to real assett location? 
