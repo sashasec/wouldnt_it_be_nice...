@@ -1,4 +1,4 @@
-# Welcome to "wouldnt_it_be_nice..."
+# Welcome to "wouldnt_it_be_nice..."!
 This is a series of scripts collected for "minor" tasks that have been automated away. 
 
 ## cold_zeek_lookup.py
