@@ -25,3 +25,7 @@ Wouldn't it be nice to be able to easily update watchlists on a memcached server
 
 ## ip2location_lookup.py
 Wouldn't it be nice to perform a reliable whois lookup and get an estimated geolocation that is actually close to real assett location? 
+
+## email_to_json.py
+Wouldn't it be nice to have a python script be able to read emails from a certain abuse mailbox, convert to ***json***, and store in a newline separated file. 
+This file would be ideal for ingesting into another security analytics platform of your choosing. 
