@@ -19,3 +19,6 @@ Script retrieves simulation report directly from the API of the phishing simulat
 
 ## asset_inventory_ad_pull.py
 Wouldn't it be nice to export systems listed in Active Directory and interact with them directly in python? 
+
+## update_memcached_server.py
+Wouldn't it be nice to be able to easily update watchlists on a memcached server in python? 
