@@ -1,4 +1,4 @@
-#Wouldn't it be nice for each manager to receive an emailed report of how their direct reports performed on the most recent phishing simulation? 
+#Wouldn't it be nice for each manager to receive an emailed report of how their team (aka: direct reports) performed on the most recent phishing simulation? 
 #Assumptions about the spreadsheet:
 # it contains all users' participation required for the report
 # is called: simulation.csv 
