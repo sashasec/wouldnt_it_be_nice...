@@ -21,7 +21,7 @@ Script retrieves simulation report directly from the API of the phishing simulat
 Wouldn't it be nice to export systems listed in Active Directory and interact with them directly in python? 
 
 ## update_memcached_server.py
-Wouldn't it be nice to be able to easily update watchlists on a memcached server in python? 
+Wouldn't it be nice to be able to easily update watchlists on a memcached server in python? Be sure to update "SERVER_IP" with the IP of your memcached host. 
 
 ## ip2location_lookup.py
 Wouldn't it be nice to perform a reliable whois lookup and get a more accurate location estimate?  
