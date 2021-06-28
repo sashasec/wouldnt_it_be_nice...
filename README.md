@@ -1,6 +1,8 @@
 # Welcome to "wouldnt_it_be_nice..."!
 This is a series of scripts I've built for completing specific tasks I've encountered. The types of things that come up where you wish you had an alternative from doing it by hand. Hopefully this could give others a starting point. 
 
+I will be discussing more behind each of these scripts on my [blog](https://sashasec.medium.com/wouldnt-it-be-nice-1866fd18a99b) when I get a chance. 
+
 ## cold_zeek_lookup.py
 Wouldn't it be nice to be able to search old zipped logs for a certain characteristic? 
 This script can look for an IP in thousands of gzipped Zeek files found in raw cold storage. 
